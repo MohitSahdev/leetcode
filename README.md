@@ -14,6 +14,7 @@ Solutions to LeetCode problems
 | [1068-product-sales-analysis-i](https://github.com/MohitSahdev/leetcode/tree/master/1068-product-sales-analysis-i) |
 | [1148-article-views-i](https://github.com/MohitSahdev/leetcode/tree/master/1148-article-views-i) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/MohitSahdev/leetcode/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
+| [1517-find-users-with-valid-e-mails](https://github.com/MohitSahdev/leetcode/tree/master/1517-find-users-with-valid-e-mails) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/MohitSahdev/leetcode/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1667-fix-names-in-a-table](https://github.com/MohitSahdev/leetcode/tree/master/1667-fix-names-in-a-table) |
 | [1683-invalid-tweets](https://github.com/MohitSahdev/leetcode/tree/master/1683-invalid-tweets) |
