@@ -20,5 +20,6 @@ Solutions to LeetCode problems
 | [1667-fix-names-in-a-table](https://github.com/MohitSahdev/leetcode/tree/master/1667-fix-names-in-a-table) |
 | [1683-invalid-tweets](https://github.com/MohitSahdev/leetcode/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/MohitSahdev/leetcode/tree/master/1757-recyclable-and-low-fat-products) |
+| [1795-rearrange-products-table](https://github.com/MohitSahdev/leetcode/tree/master/1795-rearrange-products-table) |
 | [1873-calculate-special-bonus](https://github.com/MohitSahdev/leetcode/tree/master/1873-calculate-special-bonus) |
 <!---LeetCode Topics End-->
