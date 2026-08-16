@@ -22,6 +22,7 @@ Solutions to LeetCode problems
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/MohitSahdev/leetcode/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1667-fix-names-in-a-table](https://github.com/MohitSahdev/leetcode/tree/master/1667-fix-names-in-a-table) |
 | [1683-invalid-tweets](https://github.com/MohitSahdev/leetcode/tree/master/1683-invalid-tweets) |
+| [1693-daily-leads-and-partners](https://github.com/MohitSahdev/leetcode/tree/master/1693-daily-leads-and-partners) |
 | [1741-find-total-time-spent-by-each-employee](https://github.com/MohitSahdev/leetcode/tree/master/1741-find-total-time-spent-by-each-employee) |
 | [1757-recyclable-and-low-fat-products](https://github.com/MohitSahdev/leetcode/tree/master/1757-recyclable-and-low-fat-products) |
 | [1795-rearrange-products-table](https://github.com/MohitSahdev/leetcode/tree/master/1795-rearrange-products-table) |
