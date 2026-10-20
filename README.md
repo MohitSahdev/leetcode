@@ -33,4 +33,12 @@ Solutions to LeetCode problems
 | [1795-rearrange-products-table](https://github.com/MohitSahdev/leetcode/tree/master/1795-rearrange-products-table) |
 | [1873-calculate-special-bonus](https://github.com/MohitSahdev/leetcode/tree/master/1873-calculate-special-bonus) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/MohitSahdev/leetcode/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/MohitSahdev/leetcode/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/MohitSahdev/leetcode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
