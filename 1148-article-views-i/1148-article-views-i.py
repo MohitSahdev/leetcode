@@ -1,9 +1,10 @@
 import pandas as pd
 
 def article_views(views: pd.DataFrame) -> pd.DataFrame:
-    return (
-        views[views["author_id"] == views["viewer_id"]][["author_id"]]
-        .drop_duplicates()
-        .rename(columns={"author_id": "id"})
-        .sort_values("id")
-    )
+    result = views[views['author_id'] == views['viewer_id']]
+
+    result = result[['author_id']].drop_duplicates()
+
+    result = result.rename(columns={'author_id': 'id'})
+
+    return result.sort_values(by='id').reset_index(drop=True)
